@@ -24,6 +24,7 @@ _Webpage of Anastasia Han's portfolio._
 ## Known Bugs
 
 * _Titles of cards should be centered._
+* _Nav bar needs new html links to work._
 
 ## Github Pages Link
 
